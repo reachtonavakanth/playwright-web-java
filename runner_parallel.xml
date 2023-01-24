@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Sample Suite" thread-count="2"
+       parallel="tests">
+<!--       verbose="4"-->
+    <test name="Browser1">
+        <classes>
+            <class name="com.playwrighthybrid.tests.LoginTests"/>
+        </classes>
+    </test>
+    <test name="Browser2">
+        <classes>
+            <class name="com.playwrighthybrid.tests.LoginTests"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sample Suite">
+    <test name="Open Cart Home Page Test_chrome">
+        <listeners>
+            <listener class-name="com.playwrighthybrid.listners.TestListeners"></listener>
+        </listeners>
+        <classes>
+            <class name="com.playwrighthybrid.tests.LoginTests" />
+        </classes>
+    </test>
+
+</suite>

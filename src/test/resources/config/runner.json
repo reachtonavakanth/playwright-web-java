@@ -1,0 +1,11 @@
+{
+"appInfo": {
+  "browser": "chromium",
+  "url": "https://www.saucedemo.com/"
+},
+"configs":{
+  "tracing": "yes"
+}
+
+
+}

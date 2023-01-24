@@ -1,0 +1,4 @@
+
+Set flags for controls like tracing, browser headless, local or playwright browsers
+Log4j
+Other Html reports
